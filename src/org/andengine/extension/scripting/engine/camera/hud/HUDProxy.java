@@ -13,8 +13,8 @@ import org.andengine.entity.IEntity;
 import org.andengine.entity.IEntityMatcher;
 import org.andengine.entity.IEntityMatcher;
 
-import org.andengine.util.color.Color;
-import org.andengine.util.color.Color;
+import org.andengine.util.adt.color.Color;
+import org.andengine.util.adt.color.Color;
 
 
 public class HUDProxy extends HUD {

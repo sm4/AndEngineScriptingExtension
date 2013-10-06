@@ -23,8 +23,8 @@ import org.andengine.opengl.vbo.VertexBufferObjectManager;
 import org.andengine.opengl.vbo.VertexBufferObjectManager;
 import org.andengine.opengl.vbo.VertexBufferObjectManager;
 
-import org.andengine.util.color.Color;
-import org.andengine.util.color.Color;
+import org.andengine.util.adt.color.Color;
+import org.andengine.util.adt.color.Color;
 
 
 public class LineProxy extends Line {
